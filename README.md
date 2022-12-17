@@ -1,7 +1,7 @@
 ### Hi there!
 
 ### About Me
-- :shipit: Data, Spatial Nerd
+- :shipit: Data and geospatial
 - :nut_and_bolt: Finds joy in toying with the nooks and crannies of data
 - :blue_book: Always ready to learn something new
 
