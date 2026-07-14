@@ -2,7 +2,7 @@
 
 ### About Me
 - :shipit: Data, machine learning and geospatial
-- :nut_and_bolt: Finds joy in toying with the nooks and crannies of data
+- :nut_and_bolt: Finds joy in toying with the nooks and crannies of data and AI
 - :blue_book: Always ready to learn something new
 
 [Linkedin](https://www.linkedin.com/in/feng-weihan) | [Portfolio](https://weihanfeng.github.io/myportfolio/)
